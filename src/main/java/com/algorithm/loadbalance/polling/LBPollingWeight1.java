@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.loadbalance.polling;
+package com.algorithm.loadbalance.polling;
 
 import java.util.HashMap;
 import java.util.Map;

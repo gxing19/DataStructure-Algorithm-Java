@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.loadbalance.polling;
+package com.algorithm.loadbalance.polling;
 
 import java.util.Iterator;
 import java.util.Map;

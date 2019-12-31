@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.binaryheap;
+package com.datastructure.binaryheap;
 
 import java.util.Arrays;
 

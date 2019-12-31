@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.linkedlist;
+package com.datastructure.linkedlist;
 
 public class MyLinkedList1 {
     //头节点指针

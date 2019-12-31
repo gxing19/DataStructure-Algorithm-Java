@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.linkedlist;
+package com.datastructure.linkedlist;
 
 public class Node {
 

@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.tree;
+package com.datastructure.tree;
 
 import java.util.Arrays;
 import java.util.LinkedList;

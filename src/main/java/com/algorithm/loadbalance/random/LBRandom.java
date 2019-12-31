@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.loadbalance.random;
+package com.algorithm.loadbalance.random;
 
 import java.util.ArrayList;
 import java.util.List;

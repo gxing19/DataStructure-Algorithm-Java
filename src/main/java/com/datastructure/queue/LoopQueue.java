@@ -1,4 +1,4 @@
-package com.datastructure.algorithm.queue;
+package com.datastructure.queue;
 
 public class LoopQueue {
 
