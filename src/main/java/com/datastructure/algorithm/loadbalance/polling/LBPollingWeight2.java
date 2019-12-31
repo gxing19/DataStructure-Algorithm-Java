@@ -4,6 +4,7 @@ import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
@@ -34,7 +35,7 @@ public class LBPollingWeight2 {
 
         List<String> serverList = serverMap.keySet().stream().collect(Collectors.toList());
         //当前权重
-        Map<String, Integer> currentWeightMap = new HashMap<>();
+        Map<String, Integer> currentWeightMap = new ConcurrentHashMap<>();
 
         for (int i = 0; i < 18; i++) {
             String server = getServer(initWeightMap, serverList, currentWeightMap);
