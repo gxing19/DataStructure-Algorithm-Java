@@ -8,9 +8,9 @@
 
 Blog：http://www.gxitsky.com/
 
-Github：https://github.com/gxing19/Design-Patterns-Java
+Github：https://gitee.com/gxing19/DataStructure-Algorithm-Java.git
 
-Gitee：https://gitee.com/gxing19/Design-Patterns-Java
+Gitee：https://github.com/gxing19/DataStructure-Algorithm-Java
 
 ## 数据结构
 
