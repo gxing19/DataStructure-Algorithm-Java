@@ -1,5 +1,15 @@
 # 数据结构与算法之Java实现
 
+[系列文章地址](http://www.gxitsky.com/categories/数据结构与算法/)：http://www.gxitsky.com/categories/数据结构与算法/
+
+数据结构与算法是基础，是核心，更是精华。做开发的，除了业务的 CRUD 外，只要研究深入点就一定涉及到数据结构与算法，要想技术有更高的提升，数据结构与算法是必须跨过的槛。
+
+Blog：http://www.gxitsky.com/
+
+Github：https://github.com/gxing19/Design-Patterns-Java
+
+Gitee：https://gitee.com/gxing19/Design-Patterns-Java
+
 ## 数据结构
 
 ### 二叉堆
